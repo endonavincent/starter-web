@@ -15,4 +15,4 @@ review.
 This is just a sample
 
 ##Copyright
-2021 git training
+2021 git training all rights reserve
